@@ -1,7 +1,7 @@
 {
   "name": "hex-color-guessing-game",
   "version": "0.1.0",
-  "homepage": "https://joshua091600.github.io/color_game",
+  "homepage": "https://joshua091600.github.io/react-color-game",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
