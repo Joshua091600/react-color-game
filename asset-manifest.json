@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-color-game/static/css/main.6387d04d.css",
+    "main.js": "/react-color-game/static/js/main.ea371490.js",
+    "index.html": "/react-color-game/index.html",
+    "main.6387d04d.css.map": "/react-color-game/static/css/main.6387d04d.css.map",
+    "main.ea371490.js.map": "/react-color-game/static/js/main.ea371490.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6387d04d.css",
+    "static/js/main.ea371490.js"
+  ]
+}
